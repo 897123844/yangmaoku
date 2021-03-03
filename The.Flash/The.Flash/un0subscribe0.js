@@ -1,68 +1,5 @@
 /*
 
-TED演讲 完美主义者的困境
-文章来源：未知 文章作者：enread 发布时间：2020-04-07 06:02 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-We typically aim for a particular career because we have been deeply impressed by the exploits of the most accomplished1 practitioners2 in the field.
-我们选择一份职业，往往是因为我们仰慕某些行业里最杰出的那部分人。
-We formulate3 our ambitions by admiring the beautiful structures of the architect tasked with designing the city’s new airport,
-我们的抱负来自于城市里精心设计的新机场，
-or by following the intrepid4 trades of the wealthiest Wall Street fund manager,
-或者是仰慕华尔街那些基金经理大胆的投资，
-by reading the analyses of the acclaimed5 literary novelist or sampling the piquant6 meals in the restaurant of a prize-winning chef.
-或者是读到小说里的精妙语言，或者是折服于一道被获奖厨师制作出来的开胃菜。
-We form our career plans on the basis of perfection.
-我们的人生规划来自于“完美”。
-Then, inspired by the masters, we take our own first steps and the trouble begins.
-由于这些大师的鼓舞，我们迈出了我们的第一步，这时麻烦就来了。
-What we have managed to design, or make in our first month of trading, or write in an early short story,
-我们努力设计出的，或者是完成了首月的第一笔交易，或者是写出了一个短篇故事，
-or cook for the family is markedly and absurdly, beneath the standard that first sparked our ambitions.
-或者是给家人做的饭，它们经常明显且荒谬地远远低于我们一开始想达到的标准。
-We who are so aware of excellence7 end up the least able to tolerate mediocrity – which in this case, happens to be our own.
-我们当中那些最想要变得杰出的人是最不能忍受中庸的这些人——恰恰就是我们自己。
-We become stuck in an uncomfortable paradox8: our ambitions have been ignited by greatness, but everything we know of ourselves points to congenital ineptitude9.
-我们被困在一个难受的困境里：我们的雄心壮志是被伟大激起来的，但是我们慢慢发现自己天赋上的无能。
-We have fallen into what we can term the Perfectionist Trap,
-我们慢慢陷入完美主义陷阱，
-defined as a powerful attraction to perfection shorn of any mature or sufficient understanding of what is required to attain10 it.
-被完美深深地吸引，但是又缺少对如何获得完美成熟和充分的理解。
-It isn’t primarily our fault.
-这并不全是我们的错。
-Without in any way revealing this, or even perhaps being aware of it,
-没有任何手段可以揭露这些，我们根本意识不到。
-our media edits out billions of unremarkable lives and years of failure, rejection11 and frustration12 even in those who do achieve
-然而媒体有意剪掉那些其余千千万万平凡的人生和失败，被拒绝，沮丧，这些黑暗面也存在于那些成功的人身上。
-in order to serve us up a daily curated selection of peak career moments, which thereby13 end up seeming not like the violent exceptions they actually are,
-媒体的行为是为了选出那些顶尖生涯的时刻，于是它们看起来便不像过高的期望，
-but a norm and baseline of achievement.
-而是成了一种成就的法则和底线。
-It starts to appear as though "everyone" is successful because all those who we happen to hear about really are successes
-看起来好像每个人都成功了，因为我们听到的只是成功的故事，
-and we have forgotten to imagine the oceans of tears and despair that necessarily surround them.
-然而我们忘记了那些围绕着成功的可以积成大海的眼泪和失望。
-Our perspective is imbalanced because we know our own struggles so well from the inside,
-我们的看法非常失衡，因为我们内心清楚地知道我们的挣扎，
-and yet are exposed to apparently14 pain-free narratives15 of achievement on the outside.
-但是我们每天都在听到那些“无痛”成功的事例。
-We cannot forgive ourselves the horrors of our early drafts – largely because we have not seen the early drafts of those we admire.
-我们不能坦然对待自己在早期面对的恐惧，这很大程度上是因为我们没有看见那些大师早期承受的痛苦。
-We need a saner16 picture of how many difficulties lie behind everything we would wish to emulate17.
-我们需要一个更清楚的画面来揭示我们想要的每一个成功背后的艰难。
-We should not look, for example, at the masterpieces of art in a museum.
-比如说，我们不能只盯着博物馆里的大作。
-We should go to the studio and there see the anguish18, wrecked19 early versions and watermarks on the paper where the artist broke down and wept.
-我们应该去那些工作室，看看那些早期的痛苦，失败之作，以及艺术家崩溃地哭泣时落在纸上的泪痕。
-We should focus on how long it took the architect before they received their first proper commission (they were over 50) ,
-我们还应该看看那些建筑师是多久才收到他们第一份佣金（他们都超过50岁），
-we need to dig out the early stories of the writer who now wins prizes and examine more closely how many failures the entrepreneur had to endure.
- 
-我们要挖掘那些得奖作家早期的故事，还有那些企业家早期经历过多少失败。
-We need to recognise the legitimate20 and necessary role of failure, allow ourselves to do things quite imperfectly for a very long time
-我们需要认识到这些不可避免的失败，然后长时间的做一些并不是那么完美的事情，
-as a price we cannot avoid paying for an opportunity one day, perhaps in many decades, to do something that others will consider a spontaneous success.
-这些都是我们必须要付的代价，这些都是为了可能有一天，或者几十年后，我们终于做出其他人认为自然而然得到的成绩。
-
 脚本：取关京东店铺和商品
 更新时间：2020-11-22
 因种豆得豆和宠汪汪以及NobyDa大佬的京东签到脚本会关注店铺和商品，故此脚本用来取消已关注的店铺和商品
@@ -104,8 +41,8 @@ if ($.isNode()) {
   cookiesArr = cookiesArr.filter(item => item !== "" && item !== null && item !== undefined);
 }
 const jdNotify = $.getdata('jdUnsubscribeNotify');//是否关闭通知，false打开通知推送，true关闭通知推送
-let goodPageSize = $.getdata('jdUnsubscribePageSize') || 20;// 运行一次取消多少个已关注的商品。数字0表示不取关任何商品
-let shopPageSize = $.getdata('jdUnsubscribeShopPageSize') || 20;// 运行一次取消多少个已关注的店铺。数字0表示不取关任何店铺
+let goodPageSize = $.getdata('jdUnsubscribePageSize') || 290;// 运行一次取消多少个已关注的商品。数字0表示不取关任何商品
+let shopPageSize = $.getdata('jdUnsubscribeShopPageSize') || 290;// 运行一次取消多少个已关注的店铺。数字0表示不取关任何店铺
 let stopGoods = $.getdata('jdUnsubscribeStopGoods') || '';//遇到此商品不再进行取关，此处内容需去商品详情页（自营处）长按拷贝商品信息
 let stopShop = $.getdata('jdUnsubscribeStopShop') || '';//遇到此店铺不再进行取关，此处内容请尽量从头开始输入店铺名称
 const JD_API_HOST = 'https://wq.jd.com/fav';
