@@ -1,64 +1,6 @@
 
 /*
-Mr. Daniel Brewster sat in his luxurious suite at the Cosmopolis, smoking one of his admirable cigars and chatting with his old friend, Professor Binstead. A stranger who had only encountered Mr. Brewster in the lobby of the hotel would have been surprised at the appearance of his sitting-room, for it had none of the rugged simplicity which was the keynote of its owner's personal appearance. Daniel Brewster was a man with a hobby. He was what Parker, his valet, termed a connoozer. His educated taste in Art was one of the things which went to make the Cosmopolis different from and superior to other New York hotels. He had personally selected the tapestries in the dining-room and the various paintings throughout the building. And in his private capacity he was an enthusiastic collector of things which Professor Binstead, whose tastes lay in the same direction, would have stolen without a twinge of conscience if he could have got the chance.
-
-The professor, a small man of middle age who wore tortoiseshell-rimmed spectacles, flitted covetously about the room, inspecting its treasures with a glistening eye. In a corner, Parker, a grave, lean individual, bent over the chafing-dish, in which he was preparing for his employer and his guest their simple lunch.
-
-"Brewster," said Professor Binstead, pausing at the mantelpiece.
-
-Mr. Brewster looked up amiably. He was in placid mood to-day. Two weeks and more had passed since the meeting with Archie recorded in the previous chapter, and he had been able to dismiss that disturbing affair from his mind. Since then, everything had gone splendidly with Daniel Brewster, for he had just accomplished his ambition of the moment by completing the negotiations for the purchase of a site further down-town, on which he proposed to erect a new hotel. He liked building hotels. He had the Cosmopolis, his first-born, a summer hotel in the mountains, purchased in the previous year, and he was toying with the idea of running over to England and putting up another in London, That, however, would have to wait. Meanwhile, he would concentrate on this new one down-town. It had kept him busy and worried, arranging for securing the site; but his troubles were over now.
-
-"Yes?" he said.
-
-Professor Binstead had picked up a small china figure of delicate workmanship. It represented a warrior of pre-khaki days advancing with a spear upon some adversary who, judging from the contented expression on the warrior's face, was smaller than himself.
-
-"Where did you get this?"
-
-"That? Mawson, my agent, found it in a little shop on the east side."
-
-"Where's the other? There ought to be another. These things go in pairs. They're valueless alone."
-
-Mr. Brewster's brow clouded.
-
-"I know that," he said shortly. "Mawson's looking for the other one everywhere. If you happen across it, I give you carte blanche to buy it for me."
-
-"It must be somewhere."
-
-"Yes. If you find it, don't worry about the expense. I'll settle up, no matter what it is."
-
-"I'll bear it in mind," said Professor Binstead. "It may cost you a lot of money. I suppose you know that."
-
-"I told you I don't care what it costs."
-
-"It's nice to be a millionaire," sighed Professor Binstead.
-
-"Luncheon is served, sir," said Parker.
-
-He had stationed himself in a statutesque pose behind Mr. Brewster's chair, when there was a knock at the door. He went to the door, and returned with a telegram.
-
-"Telegram for you, sir."
-
-Mr. Brewster nodded carelessly. The contents of the chafing-dish had justified the advance advertising of their odour, and he was too busy to be interrupted.
-
-"Put it down. And you needn't wait, Parker."
-
-"Very good, sir."
-
-The valet withdrew, and Mr. Brewster resumed his lunch.
-
-"Aren't you going to open it?" asked Professor Binstead, to whom a telegram was a telegram.
-
-"It can wait. I get them all day long. I expect it's from Lucille, saying what train she's making."
-
-"She returns to-day?"
-
-"Yes, Been at Miami." Mr. Brewster, having dwelt at adequate length on the contents of the chafing-dish, adjusted his glasses and took up the envelope. "I shall be glad--Great Godfrey!"
-
-He sat staring at the telegram, his mouth open. His friend eyed him solicitously.
-
-
-
-
+pen. His friend eyed him solicitously.
 
 */
 const $ = new Env('东东农场');
@@ -68,8 +10,8 @@ let cookiesArr = [], cookie = '', jdFruitShareArr = [], isBox = false, notify, n
 //下面给出两个账号的填写示例（iOS只支持2个京东账号）
 let shareCodes = ["","",""]
 let message = '', subTitle = '', option = {}, isFruitFinished = false;
-const retainWater = 100;//保留水滴大于多少g,默认100g;
-let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
+const retainWater = 10000;//保留水滴大于多少g,默认100g;
+let jdNotify = true;//是否关闭通知，false打开通知推送，true关闭通知推送
 let jdFruitBeanCard = false;//农场使用水滴换豆卡(如果出现限时活动时100g水换20豆,此时比浇水划算,推荐换豆),true表示换豆(不浇水),false表示不换豆(继续浇水),脚本默认是浇水
 let randomCount = $.isNode() ? 20 : 5;
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
