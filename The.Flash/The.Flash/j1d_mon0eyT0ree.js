@@ -1,55 +1,5 @@
 /*
 
-杰昆·菲尼克斯的奥斯卡演讲中英对照全文
-文章来源：未知 文章作者：enread 发布时间：2020-03-18 08:25 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-“I’m full of so much gratitude1 now. I do not feel elevated above any of my fellow nominees2 or anyone in this room, because we share the same love – that’s the love of film. And this form of expression has given me the most extraordinary life. I don’t know where I’d be without it. But I think the greatest gift that it’s given me, and many people in [this industry] is the opportunity to use our voice for the voiceless. 
-
-“我现在心里充满了感激之情。 我并不觉得自己比任何其他提名者或在座的任何人都要高尚，因为我们分享着同样的爱——这就是对电影的热爱。 这种表达方式给了我最不平凡的生活。 我不知道没有它我会在哪里。 但是我认为它给予我和这个行业的许多人的最大的礼物，就是让我们有机会为那些没有发言权的人发声。
-
- 
-
-“I’ve been thinking about some of the distressing3 issues that we’ve been facing collectively. I think at times we feel or are made to feel that we champion different causes. But for me, I see commonality. I think, whether we’re talking about gender4 inequality or racism5 or queer rights or indigenous6 rights or animal rights, we’re talking about the fight against injustice7.
-
-“我一直在思考我们共同面临的一些令人沮丧的问题。 我认为有时我们感觉或被迫感觉我们支持不同的事业。 但对我来说，我看到了共性。 我认为，无论我们谈论的是性别不平等、种族歧视、酷儿权利、土著权利或动物权利，我们谈论的是反对不公正的斗争。
-
- 
-
-“We’re talking about the fight against the belief that one nation, one people, one race, one gender, one species, has the right to dominate, use and control another with impunity8.
-
-“我们讨论的是反对一个国家、一个民族、一个种族、一个性别、一个物种有权支配、使用和控制另一个物种而不受惩罚的信念。
-
- 
-
-“I think we’ve become very disconnected from the natural world. Many of us are guilty of an egocentric world view, and we believe that we’re the centre of the universe. We go into the natural world and we plunder9 it for its resources. 
-
-“我认为我们已经变得非常脱离自然世界。 我们中的许多人都对自我中心的世界观感到内疚，我们相信我们是宇宙的中心。 我们进入自然世界，掠夺它的资源。
-
- 
-
-“We feel entitled to artificially inseminate a cow and steal her baby, even though her cries of anguish10 are unmistakeable. Then we take her milk that’s intended for her calf11 and we put it in our coffee and our cereal.
-
-“我们觉得自己有权利让一头奶牛人工受精，并偷走她的婴儿，尽管她痛苦的哭声是明白无误的。 然后，我们把准备给她的小牛喝的牛奶，放进我们的咖啡和麦片里。
-
- 
-
-“We fear the idea of personal change, because we think we need to sacrifice something; to give something up. But human beings at our best are so creative and inventive, and we can create, develop and implement12 systems of change that are beneficial to all sentient13 beings and the environment.
-
-“我们害怕个人的改变，因为我们认为我们需要牺牲一些东西，放弃一些东西。 但是处于最佳状态的人类是如此具有创造性和创造性，我们可以创造、发展和实施对所有有情众生和环境有益的变化系统。
-
- 
-
-“I have been a scoundrel all my life, I’ve been selfish. I’ve been cruel at times, hard to work with, and I’m grateful that so many of you in this room have given me a second chance. I think that’s when we’re at our best: when we support each other. Not when we cancel each other out for our past mistakes, but when we help each other to grow. When we educate each other; when we guide each other to redemption.
-
-“我一辈子都是个无赖，我很自私。 我有时很残忍，很难相处，我很感激在座的诸位给了我第二次机会。 我认为那是我们最好的时候: 当我们互相支持的时候。 不是当我们互相抵消过去的错误，而是当我们帮助彼此成长。 当我们彼此教育，当我们引导彼此救赎。
-
- 
-
-When he was 17, my brother [River] wrote this lyric14. He said: “run to the rescue with love and peace will follow.”
-
-我哥哥[雷芙]17岁时写了这首歌词。 他说: “用爱去营救，和平就会随之而来。”
-
-
 摇钱树 ：https://gitee.com/lxk0301/jd_scripts/raw/master/jd_moneyTree.js
 更新时间：2020-11-16
 活动入口：京东APP我的-更多工具-摇钱树
