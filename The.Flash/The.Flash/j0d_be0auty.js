@@ -1,21 +1,5 @@
 /*
-格来说，C语言中并没有直接创建动态数组的方法。
-不同于别的语言，C语言不允许用 int a[n] (n为变量) 的方式定义动态数组，而是通过采用指针型函数创建动态存储区，继而实现动态数组的效果，要使用这些函数，需要我们了解指针的用法。
-在 stdlib 库中提供了 几个创建动态存储区的指针型函数，通过调用这些函数，可以让我们实现创建动态数组的效果。
-下面分别介绍每个函数的使用方法:
-
-1. void *malloc(unsigned int size)
-函数作用：开辟一个长度为size的连续空间，函数的返回值是所分配区域的第一个字节的地址，开辟空间失败返回NULL
-形参 size 的类型定义为无符号类型，表示开辟空间的长度
-要注意该指针的基类型是void，即不指向任何类型的数据。
-
-
-4. void free(void *p)
-函数作用：释放指针p所指向的动态空间。
-参数p 是void类型的指针变量，要指向一个动态存储区
-该函数 意如其名，便不用代码演示，读者可自己上机操作。
-
-总结：C语言中定义动态数组的方法归根到底来说还是操作指针，通过指针型函数创建一个连续的动态存储区，用指针变量指向该存储区的第一个字节的地址，进而进行操作，有点类似于将一个数组名赋给一个指针变量，继而操作数组。所以，理解并掌握指针，是学习C语言的必经之路！美丽研究院
+美丽研究院
 活动入口：京东app首页-美妆馆-底部中间按钮
 只支持Node.js支持N个京东账号
 脚本兼容: Node.js
@@ -27,7 +11,7 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 //const WebSocket = $.isNode() ? require('websocket').w3cwebsocket: SockJS;
-let jdNotify = true;//是否关闭通知，false打开通知推送，true关闭通知推送
+let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
 const randomCount = $.isNode() ? 20 : 5;
 const bean = 500
 //IOS等用户直接用NobyDa的jd cookie
