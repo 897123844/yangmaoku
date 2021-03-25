@@ -4,60 +4,7 @@ crazyJoy任务
 每天运行一次即可
 
 活动入口：APP我的-更多工具-疯狂的JOY
-TED演讲：是什么造就了长城的无与伦比
-文章来源：未知 文章作者：enread 发布时间：2020-04-02 08:42 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-TED演讲：是什么造就了长城的无与伦比，好好学习下，下次向外国朋友介绍的长城的话就不会没有话说了。
-A 13,000 mile dragon of earth and stone winds its way through the countryside of China 一条1万3英里的土石之龙蜿蜒于中国乡野之间，
-with a history almost as long and serpentine1 as the structure. 它的历史几乎与其结构一样悠久曲折。
-The Great Wall began as multiple walls of rammed2 earth built by individual feudal3 states during the Chunqiu period 长城最初是多座泥土夯实的城墙，由春秋战国时期的各个独立封建国家修筑，
-to protect against nomadic4 raiders north of China and each other. 以抵制中国北方游牧民和其它国家。
-When Emperor Qin Shi Huang unified5 the states in 221 BCE, 公元前221年，秦始皇统一中国时，
-the Tibetan Plateau and Pacific Ocean became natural barriers, 青藏高原和太平洋成为了国家的天然屏障，
-but the mountains in the north remained vulnerable to Mongol, Turkish, and Xiongnu invasions. 但北方的山脉对于蒙古、土耳其及匈奴人的入侵来说显得非常薄弱。
-To defend against them, the Emperor expanded the small walls built by his predecessors6, 为了抵御外敌，秦始皇扩建了之前所筑建的小城墙，
-connecting some and fortifying7 others. 把它们巩固强化并加以连接。
-As the structures grew from Lintao in the west to Liaodong in the east, 城墙起于西部临洮，止于东部辽东，
-they collectively became known as The Long Wall. 合在一起称为长城。
-To accomplish this task, the Emperor enlisted8 soldiers and commoners, not always voluntarily. 为了完成这项工程，秦始皇征召了士兵和平民，而他们往往不是出于自愿。
-Of the hundreds of thousands of builders recorded during the Qin Dynasty, 在秦朝记录的成千上万建造者中，
-many were forcibly conscripted peasants and others were criminals serving out sentences. 许多人都是被强征而去的农民，另外一些则是服刑犯人。
-Under the Han Dynasty, the wall grew longer still, reaching 3700 miles, 汉朝时期，长城继续扩建延长至3700英里，
-and spanning from Dunhuang to the Bohai Sea. 从敦煌延伸到渤海。
-Forced labor9 continued under the Han Emperor Han-Wudi,  强制性劳动在汉武帝时期持续着，
-and the walls reputation grew into a notorious place of suffering. 因而城墙被视作受苦受害之地，从而臭名昭彰。
-Poems and legends of the time told of laborers10 buried in nearby mass graves, or even within the wall itself. 那一时期的诗歌与传说描述了劳动者被掩埋于附近的大规模墓地甚至是城墙内。
-And while no human remains11 have been found inside, grave pits do 然而城墙内并未发现人类尸骸墓坑，
-indicate that many workers died from accidents, hunger and exhaustion12. 表明那些劳动者大多死于意外、饥饿与疲劳。
-The wall was formidable but not invincible13. 长城令人生畏却非不可战胜。
-Both Genghis and his son Khublai Khan managed to surmount14 the wall during the Mongol invasion of the 13th Century. 成吉思汗和他的儿子忽必烈曾于13世纪蒙古侵入之际设法攻克城墙。
-After the Ming dynasty gained control in 1368, 1368年明朝执政之后，
-they began to refortify and further consolidate15 the wall using bricks and stones from local kilns16. 他们开始使用当地窑中烧制而成的砖与石头重新强化和加固长城。
-Averaging 23 feet high and 21 feet wide, the walls 5500 miles were punctuated17 by watchtowers. 长城平均高7米，宽6米，5500英里的城墙中间隔着瞭望台。
-When raiders were sighted, fire and smoke signals traveled between towers until reinforcements arrived. 一旦看到有侵入者，瞭望台之间便会用升起的狼烟与风火传递信号，直到援兵抵达。
-Small openings along the wall let archers18 fire on invaders19, 城墙上的小孔让弓箭手能够射击侵入者，
-while larger ones were used to drop stones and more. 而大孔则用于投掷石头或者其它东西。
-But even this new and improved wall was not enough. 但即便是这种全新改进的城墙仍然不够好。
-In 1644, northern Manchu clans20 overthrew21 the Ming to establish the Qing dynasty, incorporating Mongolia as well, 1644年，北方满族推翻明朝建立清朝，同时合并了蒙古。
-Thus, for the second time, China was ruled by the very people the wall had tried to keep out. 因此，这是中国第二次被城墙抵御的外族统治。
-With the empire's borders now extending beyond the Great Wall, the fortifications lost their purpose. 随着帝国边界扩展到长城以外，这些工事失去了原本的目的。
-And without regular reinforcement, the wall fell into disrepair, rammed earth eroded22, 没有了定期加固，城墙失修破损，夯土被侵蚀，
-while brick and stone were plundered23 for building materials. But its job wasn't finished. 砖和石头则被盗窃用作建筑材料，但是长城的使命仍未结束。
-During World War II, China used sections for defense24 against Japanese invasion, 第二次世界大战期间，中国用部分城墙来抵御日本侵略，
-and some parts are still rumored25 to be used for military training. 一部分城墙仍然被盛传用于军事训练。
-But the Wall's main purpose today is cultural. 然而今日，文化才是长城的主要目的。
-As one of the largest man-made structures on Earth, 作为地球上大型人工建筑之一，
-it was granted UNESCO World Heritage Status in 1987. 长城于1987年被联合国教科文组织列为世界文化遗产。
-Originally built to keep people out of China, the Great Wall now welcomes millions of visitors each year. 长城起初建造用于防御外人进入中国，如今每年都会迎接数百万游客。
-In fact, the influx26 of tourists has caused the wall to deteriorate27, 实际上，大量涌入的游客已导致长城日益损坏，
-leading the Chinese government to launch preservation28 initiatives. 致使中国政府启动保护措施。
-It's also often acclaimed29 as the only man-made structure visible from space. 它也经常被宣称为唯一一处可自太空看见的人造建筑。
-Unfortunately, that's not at all true. 不幸的是，这种说法不完全正确。
-In low Earth orbit, all sorts of structures, like bridges, highways and airports are visible, 在地球低轨道上，各种建筑物如桥梁、高速公路以及机场均可看见，
-and the Great Wall is only barely discernible. 而长城却若隐若现。
-From the moon, it doesn't stand a chance. 从月球上，它则一点也看不到。
-But regardless, it's the Earth we should be studying it from because new sections are still discovered every few years,  但无论如何，地球才是我们应该好好研究长城的地方，因为每隔几年都会有新的部分被发现，
-branching off from the main body and expanding this remarkable30 monument to human achievement. 它们从主体部分扩展开去，不断延伸着这见证人类成就的伟大奇迹。
+
 ============Quantumultx===============
 [task_local]
 #crazyJoy任务
