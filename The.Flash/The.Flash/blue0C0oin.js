@@ -1,28 +1,4 @@
 /*
-第86届奥斯卡影帝Matthew McConaughey获奖感言
-文章来源：未知 文章作者：enread 发布时间：2020-04-14 05:50 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-马修·麦康纳(Matthew McConaughey)凭《达拉斯买家俱乐部》获最佳男主角奖。马修·麦康纳为该角色减肥近23公斤。这是他的第一个奥斯卡提名并得奖。下面是Matthew McConaughey的奥斯卡获奖感言。
- 
-英语演讲稿：
- 
-Thank you. Thank you, thank you, thank you, thank you to the Academy for this - all 6,000 members.
- 
-Thank you to the other nominees1. All these performances were impeccable in my opinion. I didn't see a false note anywhere. I want to thank Jean-Marc Vallée, our director. Want to thank Jared Leto, Jennifer Garner2, who I worked with daily.
- 
-There's a few things, about three things to my account that I need each day. One of them is something to look up to, another is something to look forward to, and another is someone to chase. Now, first off, I want to thank God. 'Cause that's who I look up to.
- 
-He has graced my life with opportunities that I know are not of my hand or any other human hand. He has shown me that it's a scientific fact that gratitude3 reciprocates4. In the words of the late Charlie Laughton, who said, 'When you've got God, you got a friend. And that friend is you.'
- 
-To my family, that who and what I look forward to. To my father who, I know he's up there right now with a big pot of gumbo. He's got a lemon meringue pie over there. He's probably in his underwear. And he's got a cold can of Miller5 Lite and he's dancing right now.
- 
-Loading gallery...
- 
-To you, Dad, you taught me what it means to be a man. To my mother who's here tonight, who taught me and my two older brothers' demanded that we respect ourselves. And what we in turn learned was that we were then better able to respect others. Thank you for that, Mama. To my wife, Camila, and my kids Levi, Vida and Mr. Stone, the courage and significance you give me every day I go out the door is unparalleled. You are the four people in my life that I want to make the most proud of me. Thank you.
- 
-And to my hero. That's who I chase. Now when I was 15 years old, I had a very important person in my life come to me and say 'who's your hero?' And I said, 'I don't know, I gotta think about that. Give me a couple of weeks.' I come back two weeks later, this person comes up and says 'who's your hero?' I said, 'I thought about it. You know who it is? It's me in 10 years.' So I turned 25. Ten years later, that same person comes to me and says, 'So, are you a hero?' And I was like, 'not even close. No, no, no.' She said, 'Why?' I said, 'Because my hero's me at 35.' So you see every day, every week, every month and every year of my life, my hero's always 10 years away. I'm never gonna be my hero. I'm not gonna attain6 that. I know I'm not, and that's just fine with me because that keeps me with somebody to keep on chasing.
- 
-So, to any of us, whatever those things are, whatever it is we look up to, whatever it is we look forward to, and whoever it is we're chasing, to that I say, 'Amen.' To that I say, 'Alright, alright, alright.' To that I say 'just keep living.' Thank you.
 
 
 东东超市兑换奖品 脚本地址：https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js
