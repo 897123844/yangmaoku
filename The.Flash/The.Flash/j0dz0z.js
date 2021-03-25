@@ -1,28 +1,5 @@
 /*
 
-TED演讲：你刷手机的时间其实可以让你很出色
-文章来源：未知 文章作者：enread 发布时间：2020-05-14 13:36 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-　　你有时常感觉无聊吗?你无聊的时候会做什么呢?刷微博?给别人的票圈点赞?有没有想过这些无聊的时间也可以产生新创意?今天就来看看，——如何利用无聊的时光迸发出灵感
-　　——How boredom1 can lead to your most brilliant ideas
-
-　　演讲原文节选
- 
-　　And anyway, don’t only boring people get bored? But then I started to wonder: What actually happens to us when we get bored? Or, more importantly: What happens to us if we never get bored? And what could happen if we got rid of this human emotion entirely2? I started talking to neuroscientists and cognitive3 psychologists, and what they told me was fascinating. It turns out that when you get bored, you ignite a network in your brain called the "default mode." So our body, it goes on autopilot while we’re folding the laundry or we’re walking to work, but actually that is when our brain gets really busy.
- 
-　　不是只有无聊的人才会无聊吗?但我接着开始想：当我们无聊时，会发生什么事?或更重要的：当我们从不无聊时，会发生什么事?如果我们完全摆脱这种人类情绪，又会发生什么事?我开始和神经科学家及认知心理学家谈这个话题，他们给我的回复很棒。结果是，当你无聊时，你会点燃你脑中的一个网路，叫做「预设模式」。所以当我们在折洗好的衣服、或是走路去上班时，我们的身体会自动驾驶，但其实那时我们的大脑才真的很忙。
- 
-　　So before challenge week, we were averaging two hours a day on our phones and 60 pickups, you know, like, a quick check, did I get a new email? Here’s what Tina, a student at Bard4 College, discovered about herself?(Audio)Tina: So far, I’ve been spending between 150 and 200 minutes on my phone per day, and I’ve been picking up my phone 70 to 100 times per day. And it’s really concerning, because that’s so much time that I could have spent doing something more productive, more creative, more towards myself, because when I’m on my phone, I’m not doing anything important.
- 
-　　在挑战周之前，我们平均是一天花2小时在手机上，拿起手机 60 次，比如拿起来看一下有没有新邮件。以下是巴德学院学生蒂娜对她自己的发现。(语音)蒂娜：目前，我每天会花 150 到 200 分钟在手机上，每天拿起手机 70 到 100 次。这很让人担忧，因为这么多时间我本来可以用来做比较有生产力、有创意、对我自己有助益的事，因为当我用手机时，我并没有在做重要的事。
- 
-　　If you have never known life without connectivity, you may never have experienced boredom. And there could be consequences. Researchers at USC have found they’re studying, teenagers who are on social media while they’re talking to their friends or they’re doing homework and two years down the road, they are less creative and imaginative about their own personal futures5 and about solving societal problems, like violence in their neighborhoods. And we really need this next generation to be able to focus on some big problems: climate change, economic disparity, massive cultural differences.
- 
-　　如果你从来就不知道没有连结的人生是怎样的，你可能从来没有体验过无聊。那是可能会有后果的。南加大的研究者发现——他们的研究对象是会在和朋友说话或做功课时，同时用社交媒体的青少年，两年时间过去后，他们对于自己的未来会比较没创意和想像力，对于解决社会问题，如街坊暴力，也比较没创意和想像力。我们真的需要下一个世代能够专注在大问题上：气候改变、经济失衡、大量文化差异。
- 
-　　So the next time you go to check your phone, remember that if you don’t decide how you’re going to use the technology, the platforms will decide for you. And ask yourself: What am I really looking for? Because if it’s to check email, that’s fine -- do it and be done. But if it’s to distract yourself from doing the hard work that comes with deeper thinking, take a break, stare out the window and know that by doing nothing, you are actually being your most productive and creative self. It might feel weird6 and uncomfortable at first, but boredom truly can lead to brilliance7.
- 
-　　切记，如果你没有决定你要如何用那科技，下次你再去看你的手机，平台就会为你做决定。记得自问：我到底在找什么?因为如果是去看邮件，没问题，去做，然后做完就好。但如果是让自己从需要深刻思考的努力工作中分心，休息一下，看看窗外，要知道，什么都不做时，其实是最有生产力及创意的时候。一开始可能感觉很怪且不舒服，但无聊真的可以带来出色。
 
 
 京东赚赚
@@ -51,7 +28,7 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let helpAuthor=false; // 帮助作者
 const randomCount = $.isNode() ? 20 : 5;
-let jdNotify = true; // 是否关闭通知，false打开通知推送，true关闭通知推送
+let jdNotify = false; // 是否关闭通知，false打开通知推送，true关闭通知推送
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [], cookie = '', message;
 if ($.isNode()) {
@@ -71,8 +48,8 @@ if ($.isNode()) {
 }
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
 const inviteCodes = [
-  `ATGEC3-fsrn13aiaEqiM@AUWE5maSSnzFeDmH4iH0elA@ATGEC3-fsrn13aiaEqiM@AUWE5m6WUmDdZC2mr1XhJlQ@AUWE5m_jEzjJZDTKr3nwfkg@A06fNSRc4GIqY38pMBeLKQE2InZA@AUWE5mf7ExDZdDmH7j3wfkA@AUWE5m6jBy2cNAWX7j31Pxw@AUWE5mK2UnDddDTX61S1Mkw@AUWE5mavGyGZdWzP5iCoZwQ`,
-  `ATGEC3-fsrn13aiaEqiM@AUWE5maSSnzFeDmH4iH0elA@ATGEC3-fsrn13aiaEqiM@AUWE5m6WUmDdZC2mr1XhJlQ@AUWE5m_jEzjJZDTKr3nwfkg@A06fNSRc4GIqY38pMBeLKQE2InZA@AUWE5m6_BmTUPAGH42SpOkg@AUWE53NTIs3V8YBqthQMI@AUWE5m6yVxTJcWjWr3nRIlw`
+  ``,
+  ``
 ]
 !(async () => {
   $.tuanList = []
