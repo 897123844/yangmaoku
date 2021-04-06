@@ -8,7 +8,7 @@ let cookiesArr = [], cookie = '', jdFruitShareArr = [], isBox = false, notify, n
 //助力好友分享码(最多4个,否则后面的助力失败),原因:京东农场每人每天只有四次助力机会
 //此此内容是IOS用户下载脚本到本地使用，填写互助码的地方，同一京东账号的好友互助码请使用@符号隔开。
 //下面给出两个账号的填写示例（iOS只支持2个京东账号）
-let shareCodes = ["","",""]
+let shareCodes = ["f2197d1432e3411d829bd670817e01b7","b5f3ef0e26ca45168580aefc083041a0","086685c5f6d64d8b8f751b6f4e9dc24d","633a171106bf42e7b0acbe61537e808f","72abfb7ee84e4123ac3028cd08c0a12d","1de91324eece461488a7ac33b8718aee","0801afa8ac904cc6b8e390d5f04f2fc5","a2c0714f2b344f2698cbaf956cca65ad","81abadbb2f9e4df2ab1d05739afd6698","f4a6a17069d94080a404798fa1ef3c12","ee9a2d8a819a41ae984dde81d9bcdd43","d1cd415390694b87bd21d53a85e83869","f49888210024495a801d944e57ea6e1a"]
 let message = '', subTitle = '', option = {}, isFruitFinished = false;
 const retainWater = 100000;//保留水滴大于多少g,默认100g;
 let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
@@ -361,7 +361,7 @@ async function doTenWaterAgain() {
   // }
   // 所有的浇水(10次浇水)任务，获取水滴任务完成后，如果剩余水滴大于等于60g,则继续浇水(保留部分水滴是用于完成第二天的浇水10次的任务)
   let overageEnergy = totalEnergy - retainWater;
-  if (totalEnergy >= ($.farmInfo.farmUserPro.treeTotalEnergy - $.farmInfo.farmUserPro.treeEnergy)) {
+  if (totalEnergy >= (30000)) {
     //如果现有的水滴，大于水果可兑换所需的对滴(也就是把水滴浇完，水果就能兑换了)
     isFruitFinished = false;
     for (let i = 0; i < ($.farmInfo.farmUserPro.treeTotalEnergy - $.farmInfo.farmUserPro.treeEnergy) / 10; i++) {
