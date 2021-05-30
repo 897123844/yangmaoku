@@ -28,7 +28,7 @@ let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [], cookie = '', message;
 let helpAuthor = true;
-const randomCount = $.isNode() ? 5 : 5;
+const randomCount = $.isNode() ? 0 : 0;
 let cash_exchange = false;//是否消耗2元红包兑换200京豆，默认否
 const inviteCodes = [
   `eU9YaO7mY_QhpGjSyXER0A@eU9YKJP6NKdSpxipmixh@95KZuVg9vl6PKcx8@eU9YaO7mNa9w8mjcniIa0g@eU9Yab_gYvp19juHzHFFhA@eU9Yaui1Mvlw8TyAz3VB3w@ZE9jCpLxMqNPjy-JlBc@eU9Ya-WzMPghoGrRzXAX1w@eU9YaeTnY_ol9TrczntH1A@eU9Yauy0ZPknpziEmnEb0g@eU9Ya--7YPkjojyEmiFH1w@eU9Yaum0N6oh-GeEySFA3g@eU9YauyzYqojpDzRzSET3w`,
