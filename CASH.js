@@ -50,7 +50,7 @@ let allMessage = '';
     return;
   }
   await requireConfig()
-  await getAuthorShareCode(eU9YaO7mY_QhpGjSyXER0A@eU9YKJP6NKdSpxipmixh@95KZuVg9vl6PKcx8@eU9YaO7mNa9w8mjcniIa0g@eU9Yab_gYvp19juHzHFFhA@eU9Yaui1Mvlw8TyAz3VB3w@ZE9jCpLxMqNPjy-JlBc@eU9Ya-WzMPghoGrRzXAX1w@eU9YaeTnY_ol9TrczntH1A@eU9Yauy0ZPknpziEmnEb0g@eU9Ya--7YPkjojyEmiFH1w@eU9Yaum0N6oh-GeEySFA3g@eU9YauyzYqojpDzRzSET3w);
+  await getAuthorShareCode(eU9YaO7mY_QhpGjSyXER0A);
   await getAuthorShareCode2();
   for (let i = 0; i < cookiesArr.length; i++) {
     if (cookiesArr[i]) {
